@@ -1,0 +1,47 @@
+.risoIlustracion {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h1,
+  h2,
+  p,
+  a,
+  a:visited {
+    color: #ffffff;
+  }
+
+  a:hover {
+    color: #00296F;
+  }
+}
+
+.gif {
+  width: 400px;
+}
+
+span {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.titulo {
+  margin-top: -12px;
+}
+
+.flechas {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.flechas:hover {
+  cursor: pointer;
+  color: #00296F;
+}
+
+@media only screen and (max-width: 720px) {
+  .gif {
+    width: 90%;
+  }  
+}

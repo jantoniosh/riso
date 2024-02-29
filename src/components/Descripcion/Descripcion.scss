@@ -1,0 +1,19 @@
+.descripcion {
+  padding: 20px;
+  h1,
+  p,
+  a,
+  a:visited {
+    color: #0079bf;
+  }
+
+  a:hover {
+    color: rgba(0, 121, 191, 0.6);
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .descripcion {
+    padding: 12px;
+  }
+}

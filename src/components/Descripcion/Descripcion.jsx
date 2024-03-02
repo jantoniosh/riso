@@ -18,7 +18,7 @@ export const Descripcion = () => {
             Antonio Salinas
           </a>
         </p>
-        <p><a href="" target="_blank">Video de YouTube</a></p>
+        <p><a href="https://www.youtube.com/watch?v=8lSNZuFhYOI" target="_blank">Video de YouTube</a></p>
         <p>Año: 2020</p>
       </div>
     </>
